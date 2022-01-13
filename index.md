@@ -2,6 +2,16 @@
 
 You can use the [editor on GitHub](https://github.com/vmakkena/vmakkena.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+Though of saving time for my friends to travel by sharing my experiences and Travel itinerary. 
+
+States travelled travelled: 
+1. Alaska
+2. Yellowstone
+3. New orleans
+4. New york 
+5. Colorado
+6. Las Vegas.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
